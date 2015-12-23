@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>HyllServelet</servlet-name>
+    <servlet-class>com.cmbb.servlet.HyllServelet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>xlglServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.xlglServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>xltjServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.xltjServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>xlscServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.xlscServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>cdglServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.cdglServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>cdtjServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.cdtjServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>cdscServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.cdscServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>clglServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.clglServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>cltjServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.cltjServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>loginServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.loginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LogoutServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.LogoutServlet</servlet-class>
+  </servlet>
+<servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>BeforeHytjServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.BeforeHytjServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>DoHytjServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.DoHytjServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>HytypeServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.HytypeServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>DoHytypeServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.DoHytypeServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>HyShowConsigneeServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.HyShowConsigneeServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>AddConsigneeServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.AddConsigneeServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>HyShowConsignerServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.HyShowConsignerServlet</servlet-class>
+ </servlet>
+ <servlet>
+  <description>This is the description of my J2EE component</description>
+  <display-name>This is the display name of my J2EE component</display-name>
+  <servlet-name>AddConsignerServlet</servlet-name>
+  <servlet-class>com.cmbb.servlet.AddConsignerServlet</servlet-class>
+ </servlet>
+ <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShowCkglServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.ShowCkglServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddCkServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.AddCkServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.DelServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.UpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShowGoodsPlace</servlet-name>
+    <servlet-class>com.cmbb.servlet.ShowGoodsPlaceServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelGoodsPlaceServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.DelGoodsPlaceServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateGoodsPlaceServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.UpdateGoodsPlaceServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>EntryStoreServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.EntryStoreServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelEntryServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.DelEntryServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>updateEntryStore</servlet-name>
+    <servlet-class>com.cmbb.servlet.updateEntryStore</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddEntryServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.AddEntryServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ShowOutStoreServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.ShowOutStoreServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DelOutServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.DelOutServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddOutStoreServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.AddOutStoreServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateStoreOutServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.UpdateStoreOutServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddGoodsPlace</servlet-name>
+    <servlet-class>com.cmbb.servlet.AddGoodsPlace</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetComboBoxServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetComboBoxServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetLoginNameServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetLoginNameServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetWareHouseNameServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetWareHouseNameServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetGoodsNameServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetGoodsNameServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetUpdateGoodsName</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetUpdateGoodsName</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GetOutStoreGoodsNameServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.GetOutStoreGoodsNameServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>updateLoginServlet</servlet-name>
+    <servlet-class>com.cmbb.servlet.updateLoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelectLogin</servlet-name>
+    <servlet-class>com.cmbb.servlet.SelectLogin</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>HyllServelet</servlet-name>
+    <url-pattern>/hyxx/HyllServelet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>BeforeHytjServlet</servlet-name>
+  <url-pattern>/hyxx/BeforeHytjServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>DoHytjServlet</servlet-name>
+  <url-pattern>/hyxx/DoHytjServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>HytypeServlet</servlet-name>
+  <url-pattern>/hyxx/HytypeServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>DoHytypeServlet</servlet-name>
+  <url-pattern>/hyxx/DoHytypeServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>HyShowConsigneeServlet</servlet-name>
+  <url-pattern>/hyxx/HyShowConsigneeServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>AddConsigneeServlet</servlet-name>
+  <url-pattern>/hyxx/AddConsigneeServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>HyShowConsignerServlet</servlet-name>
+  <url-pattern>/hyxx/HyShowConsignerServlet</url-pattern>
+ </servlet-mapping>
+ <servlet-mapping>
+  <servlet-name>AddConsignerServlet</servlet-name>
+  <url-pattern>/hyxx/AddConsignerServlet</url-pattern>
+ </servlet-mapping>
+ 
+ <servlet-mapping>
+    <servlet-name>ShowCkglServlet</servlet-name>
+    <url-pattern>/ckxx/ShowCkglServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddCkServlet</servlet-name>
+    <url-pattern>/ckxx/AddCkServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelServlet</servlet-name>
+    <url-pattern>/ckxx/DelServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateServlet</servlet-name>
+    <url-pattern>/ckxx/UpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowGoodsPlace</servlet-name>
+    <url-pattern>/ckxx/ShowGoodsPlaceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelGoodsPlaceServlet</servlet-name>
+    <url-pattern>/ckxx/DelGoodsPlaceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateGoodsPlaceServlet</servlet-name>
+    <url-pattern>/ckxx/UpdateGoodsPlaceServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EntryStoreServlet</servlet-name>
+    <url-pattern>/ckxx/EntryStoreServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelEntryServlet</servlet-name>
+    <url-pattern>/ckxx/DelEntryServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updateEntryStore</servlet-name>
+    <url-pattern>/ckxx/updateEntryStore</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddEntryServlet</servlet-name>
+    <url-pattern>/ckxx/AddEntryServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowOutStoreServlet</servlet-name>
+    <url-pattern>/ckxx/ShowOutStoreServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DelOutServlet</servlet-name>
+    <url-pattern>/ckxx/DelOutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddOutStoreServlet</servlet-name>
+    <url-pattern>/ckxx/AddOutStoreServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateStoreOutServlet</servlet-name>
+    <url-pattern>/ckxx/UpdateStoreOutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddGoodsPlace</servlet-name>
+    <url-pattern>/ckxx/AddGoodsPlace</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetComboBoxServlet</servlet-name>
+    <url-pattern>/ckxx/GetComboBoxServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetLoginNameServlet</servlet-name>
+    <url-pattern>/ckxx/GetLoginNameServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetWareHouseNameServlet</servlet-name>
+    <url-pattern>/ckxx/GetWareHouseNameServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetGoodsNameServlet</servlet-name>
+    <url-pattern>/ckxx/GetGoodsNameServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetUpdateGoodsName</servlet-name>
+    <url-pattern>/ckxx/GetUpdateGoodsName</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GetOutStoreGoodsNameServlet</servlet-name>
+    <url-pattern>/ckxx/GetOutStoreGoodsNameServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>xlglServlet</servlet-name>
+    <url-pattern>/cdxx/xlglServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>xltjServlet</servlet-name>
+    <url-pattern>/cdxx/xltjServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>xlscServlet</servlet-name>
+    <url-pattern>/cdxx/xlscServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>cdglServlet</servlet-name>
+    <url-pattern>/cdxx/cdglServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>cdtjServlet</servlet-name>
+    <url-pattern>/cdxx/cdtjServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>cdscServlet</servlet-name>
+    <url-pattern>/cdxx/cdscServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>clglServlet</servlet-name>
+    <url-pattern>/cdxx/clglServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>cltjServlet</servlet-name>
+    <url-pattern>/cdxx/cltjServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>loginServlet</servlet-name>
+    <url-pattern>/loginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LogoutServlet</servlet-name>
+    <url-pattern>/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updateLoginServlet</servlet-name>
+    <url-pattern>/updateLoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelectLogin</servlet-name>
+    <url-pattern>/SelectLogin</url-pattern>
+  </servlet-mapping>
+<welcome-file-list>
+  <welcome-file>index.jsp</welcome-file>
+ </welcome-file-list>
+ <login-config>
+  <auth-method>BASIC</auth-method>
+ </login-config>
+ 
+</web-app>
