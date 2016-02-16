@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yyzy-admin/yyzy-admin.iml" filepath="$PROJECT_DIR$/yyzy-admin/yyzy-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyzy-common/yyzy-common.iml" filepath="$PROJECT_DIR$/yyzy-common/yyzy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyzy-dao/yyzy-dao.iml" filepath="$PROJECT_DIR$/yyzy-dao/yyzy-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyzy-service/yyzy-service.iml" filepath="$PROJECT_DIR$/yyzy-service/yyzy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyzy-web.iml" filepath="$PROJECT_DIR$/yyzy-web.iml" />
+    </modules>
+  </component>
+</project>
