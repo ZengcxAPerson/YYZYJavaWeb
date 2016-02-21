@@ -7,6 +7,15 @@
           <element id="module-output" name="yyzy-admin" />
         </element>
         <element id="directory" name="lib">
+          <element id="archive" name="yyzy-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yyzy-common" />
+          </element>
+          <element id="archive" name="yyzy-dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yyzy-dao" />
+          </element>
+          <element id="archive" name="yyzy-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yyzy-service" />
+          </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.5.RELEASE" />

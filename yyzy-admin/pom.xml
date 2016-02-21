@@ -16,6 +16,25 @@
         <jdk.version>1.7</jdk.version>
     </properties>
     <dependencies>
+
+        <!-- yyzy-common -->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>yyzy-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- yyzy-dao -->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>yyzy-dao</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- yyzy-service -->
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>yyzy-service</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
