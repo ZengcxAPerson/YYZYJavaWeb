@@ -41,7 +41,7 @@
 	</typeAliases>
 	
 	<plugins>
-		<plugin interceptor="com.bi.dao.base.plugin.PagePlugin">
+		<plugin interceptor="com.yyzy.dao.base.plugin.PagePlugin">
 			<property name="dialect" value="mysql"/>
 			<property name="pageSqlId" value=".*listPage.*"/>
 		</plugin>
