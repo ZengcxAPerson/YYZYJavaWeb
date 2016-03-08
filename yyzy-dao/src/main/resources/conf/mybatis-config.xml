@@ -10,34 +10,12 @@
     </settings>
 
 	<typeAliases>
-		<!--<typeAlias type="com.bi.dao.entity.system.User" alias="User"/>
-		<typeAlias type="com.bi.dao.entity.system.Role" alias="Role"/>
-		<typeAlias type="com.bi.dao.entity.system.Menu" alias="Menu"/>
-		<typeAlias type="com.bi.dao.entity.sys.User" alias="BiUser"/>
-		<typeAlias type="com.bi.dao.entity.sys.UserRoleKey" alias="BiUserRole"/>
-		<typeAlias type="com.bi.dao.entity.sys.DataSource" alias="BiDataSource"/>
-		<typeAlias type="com.bi.dao.entity.sys.Dept" alias="BiDept"/>
-		<typeAlias type="com.bi.dao.entity.sys.DeptRoleKey" alias="BiDeptRole"/>
-		<typeAlias type="com.bi.dao.entity.sys.Menu" alias="BiMenu"/>
-		<typeAlias type="com.bi.dao.entity.sys.OperationLog" alias="BiOperationLog"/>
-		<typeAlias type="com.bi.dao.entity.sys.RoleRightKey" alias="BiRoleRight"/>
-		<typeAlias type="com.bi.dao.entity.sys.Dict" alias="BiDict"/>
-		<typeAlias type="com.bi.dao.entity.sys.Role" alias="BiRole"/>
-		<typeAlias type="com.bi.dao.entity.key.CompositeKey" alias="BiCompositeKey"/>
-		<typeAlias type="com.bi.dao.entity.sys.UserRoleKey" alias="BiUserRoleKey"/>
-		<typeAlias type="com.bi.dao.entity.sys.RoleRightKey" alias="BiRoleRightKey"/>
-		<typeAlias type="com.bi.dao.entity.sys.RoleRightKey" alias="BiDeptRoleKey"/>
-		<typeAlias alias="indexDim" type="com.bi.dao.entity.portal.PortalTemplateIndexDim"/>
-		<typeAlias alias="deskTop" type="com.bi.dao.entity.portal.PortalDesktop"/>
-		<typeAlias alias="deskTopElement" type="com.bi.dao.entity.portal.PortalDesktopElement"/>
-		<typeAlias alias="graphModel" type="com.bi.dao.entity.portal.PortalGraphModel"/>
-		<typeAlias alias="userLayout" type="com.bi.dao.entity.portal.PortalTemplateLayout"/>
-		<typeAlias alias="userParameter" type="com.bi.dao.entity.portal.PortalTemplateParameter"/>
-		&lt;!&ndash; 分页 &ndash;&gt;
-		<typeAlias type="com.bi.common.base.entity.Page" alias="Page"/>
-		<typeAlias type="com.bi.common.util.PageData" alias="pd"/>
-		<typeAlias type="com.bi.dao.entity.design.CatalogInfo" alias="CatalogInfo"/>
-		<package name="com.bi.dao.entity.design"/>-->
+		<typeAlias type="com.yyzy.dao.entity.entity.system.User" alias="User"/>
+		<typeAlias type="com.yyzy.dao.entity.entity.system.Role" alias="Role"/>
+		<typeAlias type="com.yyzy.dao.entity.entity.system.Menu" alias="Menu"/>
+		<typeAlias type="com.yyzy.common.util.PageData" alias="pd"/>
+		<!--&lt;!&ndash; 分页 &ndash;&gt;-->
+		<typeAlias type="com.yyzy.common.base.entity.Page" alias="Page"/>
 	</typeAliases>
 	
 	<plugins>

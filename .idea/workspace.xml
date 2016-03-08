@@ -2,11 +2,641 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="636d9ab1-9d42-4888-a78b-63d4aa177af6" name="Default" comment="web.xml配置">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_cb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_closebtn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_closebtn_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_ct.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mlm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mlm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mrm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mrm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_alert.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_dialog.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_query.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/window.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab1_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab2_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab3_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/bface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/cface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/fface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/jxface2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/tface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/wface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/yface.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/imageUploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/dragicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/center_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/left_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/none_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/right_focus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/ueditor.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/imglabel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/localimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/button-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cancelbutton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/charts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_h.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_v.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/dialog-title-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/filescan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/highlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons-all.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/sparator_v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/table-cell-align.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/tangram-colorpicker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/toolbar_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/unhighlighted.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/videologo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/word.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/wordpaste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload_fp9.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/Uploader.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/expressInstall.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/progress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/1_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/1_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/folder_Close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/folder_Open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_conn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_noLine.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_root.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/moveArrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/page.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_center.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_noLine.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_root.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/1_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/1_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/ajax_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom-lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow-lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomimage_next.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomimage_prev.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomin.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomout.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Area2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Bar2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Column2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Column3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Doughnut2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Doughnut3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Line.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Pie2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Pie3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/SSGrid.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-Bubble.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-FCExporter.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSArea.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSBar2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSBar3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn3DLineDY.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumnLine3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombi2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombi3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombiDY2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSLine.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSStackedColumn2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSStackedColumn2DLineDY.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-Scatter.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollArea2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollColumn2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollCombi2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollCombiDY2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollLine2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollStackedColumn2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedArea2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedBar2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedBar3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn2D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn2DLine.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3D.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3DLine.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3DLineDY.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ZoomLine.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/gritter-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/loading_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/X.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/btn-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/btn-bg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_bgs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_left2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_right2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/china.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/content-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/fdj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/gritter-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/jiazai.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/join.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/joinbottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/jzx.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/left-top-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/lhgdg_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loading_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loadingi.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login-content-bg-no2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login_bg-no2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/mail_leftbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/mail_rightbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bgs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_topimg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_topline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/nav-right-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/news-title-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/pic12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/right_smbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/top_bt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/camera-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/camera_skins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/suo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/yan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/uploadFiles/file/Users.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/pictures/PicturesController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/appuser/AppuserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/createcode/CreateCodeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/dictionaries/DictionariesController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/head/HeadController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/login/LoginController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/menu/MenuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/role/RoleController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/secCode/SecCodeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/user/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/LoginFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/startFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/LoginHandlerInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/listener/WebAppContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/resolver/MyExceptionResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/FusionChartsHTMLRenderer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/FusionChartsRenderer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/authorization.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/save_result.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/default.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/head.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/tab.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/top.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/appuser/appuser_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/appuser/appuser_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/dictionaries/zd_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/dictionaries/zd_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/edit_email.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/productCode.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/send_email.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/send_sms.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/sys_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_icon.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_button.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/uploadexcel.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_tb_list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/EMAIL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/PAGE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SMS1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SMS2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SYSNAME.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dir.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/zDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/zDrag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/code.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/position.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/import_basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/js/framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/import_skin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/link/link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/tangram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/Uploader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/fileUp.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getContent.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getMovie.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getRemoteImage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/imageManager.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/imageUp.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/scrawlUp.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/css/ueditor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/css/ueditor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/dialogbase.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/iframe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/fileprogress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.parse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/webuploader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/webuploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/jquery.ztree-2.6.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/zTreeStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/css/zoomimage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/eye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/zoomimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/socket.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/1.9.1/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/FusionCharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/1.9.1/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-ie.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/colorbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/jquery-ui-1.10.2.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/error-404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/error-500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/form-elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/form-wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/invoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/ace-elements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/ace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/daterangepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fuelux.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fuelux.wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery-ui-1.10.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.autosize-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.colorbox-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.easy-pie-chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.gritter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.inputlimiter.1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.knob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.maskedinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/css/ace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/ace/ace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/ace/elements.fileinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/jquery1x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-ie.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/aindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap-timepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/colorbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/jquery-ui-1.10.2.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/ace-elements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/ace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/chosen.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/common/add_result_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/daterangepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fuelux.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fuelux.wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.5.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-ui-1.10.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.autosize-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.colorbox-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.easy-pie-chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.gritter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.inputlimiter.1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.knob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.maskedinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.tips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/menusf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/productCode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/productCode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/css/camera.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/camera.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/jquery.mobile.customized.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/templatemo_script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/matrix-login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/SimpleMailSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/information/PicturesSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/AppuserSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/DictionariesSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/MenuSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/RoleSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserXSqlMap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/pictures/PicturesService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/appuser/AppuserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/dictionaries/DictionariesService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/menu/MenuService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/role/RoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/user/UserService.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin.war" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/applicationContext-admin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/dbconfig.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/dbconfig.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/index.jsp" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/target/classes/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/yyzy-dao/target/classes/conf/mybatis-config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/applicationContext-admin.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/applicationContext-admin.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dispatcher-servlet.xml" />
     </list>
     <ignored path="yyzy-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,52 +715,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applicationContext-admin.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/applicationContext-admin.xml">
+      <file leaf-file-name="applicationContext-admin.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/applicationContext-admin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3508772">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.29241878">
+              <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShiroRealm.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShiroRealm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/shiro/ShiroRealm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2038567">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-admin/pom.xml">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/login/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.344828">
-              <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-              <folding />
+              <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,37 +751,68 @@
         <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-dao/pom.xml">
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state vertical-scroll-proportion="-4.37931">
+              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-common/pom.xml">
+      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state vertical-scroll-proportion="-11.724138">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserSqlMap.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml">
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.9310346">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserXSqlMap.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserXSqlMap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0169492">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <marker date="1457438253939" expanded="true" signature="350:419" placeholder="update SYS_U... " />
+                <marker date="1457438253939" expanded="true" signature="502:581" placeholder="update SYS_U... " />
+                <marker date="1457438253939" expanded="true" signature="1130:1206" placeholder="update SYS_U... " />
+                <marker date="1457438253939" expanded="true" signature="1275:1606" placeholder="update SYS_U... " />
+                <marker date="1457438253939" expanded="true" signature="1707:1916" placeholder="select USER_... SYS_USER" />
+                <marker date="1457438253939" expanded="true" signature="2798:3009" placeholder="select USER_... SYS_USER" />
+                <marker date="1457438253939" expanded="true" signature="3080:3459" placeholder="insert into SYS_USER... " />
+                <marker date="1457438253939" expanded="true" signature="3558:4690" placeholder="select u.USE... SYS_USER" />
+                <marker date="1457438253939" expanded="true" signature="4787:5872" placeholder="select u.USE... SYS_USER" />
+                <marker date="1457438253939" expanded="true" signature="5945:5998" placeholder="delete from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/user/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="122" column="31" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -202,40 +845,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/FileDownload.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/FileUpload.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/FileUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/FileZip.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Freemarker.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/GetPinyin.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ImageAnd64Binary.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/LatLonUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Logger.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/MapDistance.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/MD5.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ObjectExcelRead.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ObjectExcelView.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PageData.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PathUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PublicUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ReflectHelper.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RegexChk.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RequestUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RightsHelper.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/SmsUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/SortUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/StringUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Tools.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/TwoDimensionCode.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/TwoDimensionCodeImage.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Uploader.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/UUIDGenerator.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/UuidUtil.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/WebSocket.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/MailSenderInfo.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/MyAuthenticator.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/web/IRequestArguments.java" />
-        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/web/RequestArguments.java" />
         <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/DAO.java" />
         <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/system/User.java" />
         <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/system/Role.java" />
@@ -243,16 +852,50 @@
         <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/DaoSupport.java" />
         <option value="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml" />
-        <option value="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/yyzy-service/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/yyzy/App.java" />
         <option value="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml" />
         <option value="$PROJECT_DIR$/yyzy-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/shiro/ShiroRealm.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuService.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/app/AppKuService.java" />
+        <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/Menu.java" />
+        <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/Page.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/listener/WebAppContextListener.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/resolver/MyExceptionResolver.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/User.java" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/dictionaries/DictionariesService.java" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/appuser/AppuserService.java" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/pictures/PicturesService.java" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/menu/MenuService.java" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/role/RoleService.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/role/RoleController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/appuser/AppuserController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/dictionaries/DictionariesController.java" />
+        <option value="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/SimpleMailSender.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/head/HeadController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/startFilter.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/weixin/WeixinController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/menu/MenuController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/createcode/CreateCodeController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/user/UserController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/secCode/SecCodeController.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/pictures/PicturesController.java" />
         <option value="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/applicationContext-admin.xml" />
         <option value="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/shiro/ShiroRealm.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/resources/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/LoginHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/user/UserService.java" />
+        <option value="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserXSqlMap.xml" />
+        <option value="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/yyzy-admin/src/main/resources/applicationContext-admin.xml" />
       </list>
     </option>
   </component>
@@ -297,6 +940,34 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -322,6 +993,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -350,7 +1023,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemId" value="yyzy-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,7 +1037,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemId" value="yyzy-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -375,10 +1066,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -390,93 +1077,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemId" value="yyzy-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -492,11 +1093,141 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shiro" />
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="role" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yyzy-admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,8 +1263,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -550,19 +1279,25 @@
     <property name="options.searchVisible" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="login&#9;FILE&#9;jar://E:/soft/repo/com/alibaba/druid/1.0.11/druid-1.0.11.jar!/support/http/resources/login.html" />
+    <property name="SearchEverywhereHistoryKey" value="login_toLogin&#9;null&#9;null&#10;MyExceptionResolver&#9;FILE&#9;file://D:/IJ/workspace/yyzy-web/yyzy-admin/src/main/java/com/yyzy/admin/resolver/MyExceptionResolver.java&#10;picturesController&#9;FILE&#9;file://D:/IJ/workspace/yyzy-web/yyzy-admin/src/main/java/com/yyzy/admin/controller/pictures/PicturesController.java&#10;PageData&#9;PSI&#9;JAVA://com.yyzy.common.util.PageData&#10;login&#9;FILE&#9;jar://E:/soft/repo/com/alibaba/druid/1.0.11/druid-1.0.11.jar!/support/http/resources/login.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace2" />
+    <property name="js-jscs-nodeInterpreter" value="E:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IJ\workspace\yyzy-web\yyzy-admin\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IJ\workspace\yyzy-web\yyzy-dao\src\main\resources\mapper\system" />
-      <recent name="D:\IJ\workspace\yyzy-web\yyzy-dao\src\main\resources" />
-      <recent name="D:\IJ\workspace\yyzy-web\yyzy-admin\src\main\java\com\yyzy\admin\interceptor\shiro" />
       <recent name="D:\IJ\workspace\yyzy-web\yyzy-admin\src\main\webapp" />
+      <recent name="D:\IJ\workspace\yyzy-web\yyzy-dao\src\main\resources\mapper" />
+      <recent name="D:\IJ\workspace\yyzy-web\yyzy-dao\src\main\resources" />
+      <recent name="D:\IJ\workspace\yyzy-web\yyzy-common\src\main\java\com\yyzy\common\util\mail" />
+      <recent name="D:\IJ\workspace\yyzy-web\yyzy-admin\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.yyzy">
@@ -1190,7 +1925,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" myUseAcceleration="nothing">
-    <configuration />
+    <configuration>C:\Users\Mr.Liu\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1206,7 +1941,12 @@
       <workItem from="1456217873843" duration="206000" />
       <workItem from="1456219251911" duration="1608000" />
       <workItem from="1456407725077" duration="2534000" />
-      <workItem from="1456455011021" duration="744000" />
+      <workItem from="1456455011021" duration="2394000" />
+      <workItem from="1456538580661" duration="1304000" />
+      <workItem from="1456717263017" duration="2310000" />
+      <workItem from="1457139826631" duration="1905000" />
+      <workItem from="1457422241136" duration="9641000" />
+      <workItem from="1457436087044" duration="2558000" />
     </task>
     <task id="LOCAL-00001" summary="firstProject">
       <created>1455626632711</created>
@@ -1232,44 +1972,57 @@
       <option name="project" value="LOCAL" />
       <updated>1456455160259</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="web.xml配置">
+      <created>1456455773174</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1456455773174</updated>
+    </task>
+    <task id="LOCAL-00006" summary="分支dev">
+      <created>1456455958124</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1456455958124</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29141000" />
+    <option name="totallyTimeSpent" value="48509000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37201366" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.059001513" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864675" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.49046323" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.49046323" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5095368" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37264958" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3863248" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1288,10 +2041,21 @@
     <MESSAGE value="second" />
     <MESSAGE value="加上myBastic配置文件的配置" />
     <MESSAGE value="web.xml配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="web.xml配置" />
+    <MESSAGE value="分支dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支dev" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/LoginFilter.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1299,283 +2063,327 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ObjectExcelRead.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/appuser/AppuserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#6154#6164#0" expanded="false" />
+            <element signature="e#7987#7997#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ObjectExcelView.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/dictionaries/DictionariesController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PageData.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/head/HeadController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1380#1390#0" expanded="false" />
+            <element signature="e#3632#3642#0" expanded="false" />
+            <element signature="e#4018#4028#0" expanded="false" />
+            <element signature="e#6195#6205#0" expanded="false" />
+            <element signature="e#6739#6749#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PathUtil.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/SimpleMailSender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PublicUtil.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/user/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="161" column="34" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#7514#7524#0" expanded="false" />
+            <element signature="e#9389#9399#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/ReflectHelper.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RegexChk.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/createcode/CreateCodeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RequestUtil.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/menu/MenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        <state vertical-scroll-proportion="10.178572">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/RightsHelper.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/secCode/SecCodeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/SmsUtil.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/SortUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/TwoDimensionCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/TwoDimensionCodeImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Uploader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/UUIDGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/UuidUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/WebSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/MailSenderInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/MyAuthenticator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/web/IRequestArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/web/RequestArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.3327338">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/base/entity/Page.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1438849">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/plugin/PagePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327338">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding>
+            <marker date="1455604217582" expanded="true" signature="2816:2860" placeholder="select count... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/PageData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2366864">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/information/PicturesSqlMap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.137931">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1427526116099" expanded="true" signature="240:472" placeholder="insert into TB_PICTURES... " />
+            <marker date="1427526116099" expanded="true" signature="543:607" placeholder="delete from " />
+            <marker date="1427526116099" expanded="true" signature="677:864" placeholder="update TB_PI... " />
+            <marker date="1427526116099" expanded="true" signature="960:1116" placeholder="select TITLE... TB_PICTURES" />
+            <marker date="1427526116099" expanded="true" signature="1802:1940" placeholder="select a.TIT... TB_PICTURES" />
+            <marker date="1427526116099" expanded="true" signature="2547:2633" placeholder="update TB_PI... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/pictures/PicturesController.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/DAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3402367">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3006536">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/soft/repo/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35037878">
-          <caret line="119" column="16" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74852073">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/soft/repo/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36394557">
-          <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/ruanj/Java/jdk1.7/src.zip!/javax/security/auth/login/LoginContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33136094">
-          <caret line="202" column="27" selection-start-line="202" selection-start-column="27" selection-end-line="202" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/soft/repo/com/alibaba/druid/1.0.11/druid-1.0.11.jar!/support/http/resources/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6993464">
-          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/ehcache.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5261438">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state vertical-scroll-proportion="-4.137931">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/DaoSupport.java">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/soft/repo/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5662879">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SYSNAME.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/soft/repo/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar!/org/springframework/web/servlet/ModelAndView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36129034">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/camera.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.137931">
+          <caret line="279" column="39" selection-start-line="279" selection-start-column="39" selection-end-line="279" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yyzy/App.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/templatemo_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/soft/repo/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22727273">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/soft/repo/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/soft/repo/org/apache/shiro/shiro-spring/1.2.3/shiro-spring-1.2.3.jar!/org/apache/shiro/spring/web/ShiroFilterFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2268431">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/soft/repo/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3642384">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.0">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0598006">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6896552">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/listener/WebAppContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/resolver/MyExceptionResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45454547">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/ruanj/Java/jdk1.7/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="520" column="28" selection-start-line="520" selection-start-column="28" selection-end-line="520" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/AppUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/startFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+          <folding>
+            <element signature="e#1216#1217#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/LoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -1583,34 +2391,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/LoginHandlerInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/base/DaoSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-dao/pom.xml">
+    <entry file="jar://E:/soft/repo/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar!/org/springframework/web/bind/annotation/support/HandlerMethodInvoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state vertical-scroll-proportion="-3.9285715">
+          <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-common/pom.xml">
+    <entry file="jar://E:/soft/repo/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state vertical-scroll-proportion="-5.357143">
+          <caret line="465" column="0" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.9310346">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/login/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/user/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserXSqlMap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0169492">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <marker date="1457438253939" expanded="true" signature="350:419" placeholder="update SYS_U... " />
+            <marker date="1457438253939" expanded="true" signature="502:581" placeholder="update SYS_U... " />
+            <marker date="1457438253939" expanded="true" signature="1130:1206" placeholder="update SYS_U... " />
+            <marker date="1457438253939" expanded="true" signature="1275:1606" placeholder="update SYS_U... " />
+            <marker date="1457438253939" expanded="true" signature="1707:1916" placeholder="select USER_... SYS_USER" />
+            <marker date="1457438253939" expanded="true" signature="2798:3009" placeholder="select USER_... SYS_USER" />
+            <marker date="1457438253939" expanded="true" signature="3080:3459" placeholder="insert into SYS_USER... " />
+            <marker date="1457438253939" expanded="true" signature="3558:4690" placeholder="select u.USE... SYS_USER" />
+            <marker date="1457438253939" expanded="true" signature="4787:5872" placeholder="select u.USE... SYS_USER" />
+            <marker date="1457438253939" expanded="true" signature="5945:5998" placeholder="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/shiro/ShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
           <folding />
         </state>
       </provider>
@@ -1618,55 +2489,23 @@
     <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.344828">
-          <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
+        <state vertical-scroll-proportion="-4.37931">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/applicationContext-admin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/applicationContext-admin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3508772">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6167665">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/shiro/ShiroRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2038567">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.29241878">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
           <folding />
         </state>
       </provider>
