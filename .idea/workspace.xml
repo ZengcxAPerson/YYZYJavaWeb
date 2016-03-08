@@ -1,642 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="636d9ab1-9d42-4888-a78b-63d4aa177af6" name="Default" comment="web.xml配置">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_cb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_cb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_closebtn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_closebtn_over.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_ct.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_ct.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_lt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mlm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mlm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mrm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_mrm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dialog_rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_alert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_dialog.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/icon_query.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/window.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab1_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab2_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/tab/tab3_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/bface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/cface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/fface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/tface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/wface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/images/yface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/imageUploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/center_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/none_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/images/right_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/dragicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/ueditor.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/imglabel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/button-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cancelbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/charts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/cursor_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/dialog-title-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/filescan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/highlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons-all.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/lock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/sortable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/sparator_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/table-cell-align.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/tangram-colorpicker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/toolbar_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/unhighlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/videologo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/word.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/images/wordpaste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload_fp9.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/Uploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/expressInstall.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/checkbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/1_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/1_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/flag/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/folder_Close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/folder_Open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_conn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/line_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_noLine.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_root.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/minus_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/moveArrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_bottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_center.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_noLine.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_root.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/plus_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/radio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/1_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/1_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/img/sim/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/ajax_small.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom-lr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/custom_c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow-c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow-lr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomimage_next.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomimage_prev.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomin.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/images/zoomout.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Area2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Bar2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Column2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Column3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Doughnut2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Doughnut3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Line.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Pie2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/Pie3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/SSGrid.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-Bubble.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-FCExporter.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSArea.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSBar2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSBar3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumn3DLineDY.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSColumnLine3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombi2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombi3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSCombiDY2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSLine.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSStackedColumn2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-MSStackedColumn2DLineDY.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-Scatter.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollArea2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollColumn2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollCombi2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollCombiDY2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollLine2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ScrollStackedColumn2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedArea2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedBar2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedBar3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn2D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn2DLine.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3D.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3DLine.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-StackedColumn3DLineDY.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/n-ZoomLine.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/avatars/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen-sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery/thumb-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/gritter-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/gritter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/ie-spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/loading_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/images/overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/img/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/avatars/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen-sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/X.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/btn-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/btn-bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_bgs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_left2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/buttom_right2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/china.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/content-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/fdj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/gritter-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/gritter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/ie-spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/jiazai.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/join.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/joinbottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/jzx.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/left-top-right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/lhgdg_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loading_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/loadingi.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login-content-bg-no2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login_bg-no2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/login_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/mail_leftbg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/mail_rightbg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_bgs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_topimg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/menu_topline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/nav-right-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/news-title-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/pic12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/right_smbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/images/top_bt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/hue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/img/saturation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/banner_slide_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/camera-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/images/camera_skins.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/suo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/yan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/uploadFiles/file/Users.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/app/AppKuService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/pictures/PicturesController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/appuser/AppuserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/createcode/CreateCodeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/dictionaries/DictionariesController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/head/HeadController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/login/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/menu/MenuController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/role/RoleController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/secCode/SecCodeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/controller/system/user/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/LoginFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/filter/startFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/interceptor/LoginHandlerInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/listener/WebAppContextListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/java/com/yyzy/admin/resolver/MyExceptionResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/FusionChartsHTMLRenderer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/FusionChartsRenderer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/authorization.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/save_result.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/default.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/head.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/left.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/tab.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/admin/top.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/appuser/appuser_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/appuser/appuser_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/dictionaries/zd_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/dictionaries/zd_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/edit_email.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/productCode.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/send_email.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/send_sms.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/head/sys_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_icon.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/menu/menu_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_add.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_button.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/role/role_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/uploadexcel.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_edit.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/jsp/system/user/user_tb_list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/EMAIL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/PAGE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SMS1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SMS2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/admin/config/SYSNAME.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/skins/blue/dir.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/zDialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/attention/zDialog/zDrag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/code.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/position.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/framework/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/css/import_basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/js/framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/import_skin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/tab/skins/sky/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/emotion/emotion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/image/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/internal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/link/link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/preview/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/table/edittip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/tangram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/dialogs/video/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/Uploader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/config.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/fileUp.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getContent.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getMovie.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/getRemoteImage.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/imageManager.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/imageUp.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/jsp/scrawlUp.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/lang/zh-cn/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/css/ueditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/css/ueditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/default/dialogbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/themes/iframe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/fileprogress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.proxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/swfupload/swfupload.speed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/font/vjs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video-js.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video.dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/third-party/video-js/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/ueditor/ueditor.parse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/webuploader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/webuploader/webuploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/jquery.ztree-2.6.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zTree/zTreeStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/css/zoomimage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/eye.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/plugins/zoomimage/js/zoomimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/socket.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/1.9.1/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/FusionCharts/FusionCharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/1.9.1/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-ie.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/ace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/colorbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/jquery-ui-1.10.2.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/error-404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/error-500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/form-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/form-wizard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/invoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/ace-elements.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/ace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/chosen.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/daterangepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fuelux.spinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fuelux.wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery-ui-1.10.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.autosize-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.colorbox-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.easy-pie-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.inputlimiter.1.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/js/spin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/pricing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/UI_new/widgets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/css/ace.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/ace/ace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/ace/elements.fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/assets/js/jquery1x.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-ie.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/ace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/aindex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/colorbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/jquery-ui-1.10.2.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/ace-elements.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/ace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/chosen.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/common/add_result_js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/daterangepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fuelux.spinner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fuelux.wizard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.5.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.7.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery-ui-1.10.2.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.autosize-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.colorbox-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.easy-pie-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.inputlimiter.1.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/menusf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/productCode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/myjs/productCode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/js/spin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/css/camera.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/camera.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/jquery.mobile.customized.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/js/templatemo_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/static/login/matrix-login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-common/src/main/java/com/yyzy/common/util/mail/SimpleMailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/Role.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/java/com/yyzy/dao/entity/entity/system/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/information/PicturesSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/AppuserSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/DictionariesSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/MenuSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/RoleSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserXSqlMap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/pictures/PicturesService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/appuser/AppuserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/dictionaries/DictionariesService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/menu/MenuService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/role/RoleService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yyzy-service/src/main/java/com/yyzy/service/system/user/UserService.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/applicationContext-admin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/spring/dispatcher-servlet.xml" afterPath="" />
+    <list default="true" id="636d9ab1-9d42-4888-a78b-63d4aa177af6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin.war" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dbconfig.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/classes/dbconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/dbconfig.properties" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/classes/dbconfig.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/index.jsp" afterPath="$PROJECT_DIR$/yyzy-admin/target/yyzy-admin/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/conf/mybatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml" afterPath="$PROJECT_DIR$/yyzy-dao/src/main/resources/mapper/system/UserSqlMap.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yyzy-dao/target/classes/conf/mybatis-config.xml" afterPath="$PROJECT_DIR$/yyzy-dao/target/classes/conf/mybatis-config.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/applicationContext-admin.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/applicationContext-admin.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/yyzy-admin/src/main/resources/spring/dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/yyzy-admin/src/main/resources/dispatcher-servlet.xml" />
     </list>
     <ignored path="yyzy-web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1946,7 +1318,7 @@
       <workItem from="1456717263017" duration="2310000" />
       <workItem from="1457139826631" duration="1905000" />
       <workItem from="1457422241136" duration="9641000" />
-      <workItem from="1457436087044" duration="2558000" />
+      <workItem from="1457436087044" duration="3235000" />
     </task>
     <task id="LOCAL-00001" summary="firstProject">
       <created>1455626632711</created>
@@ -1984,11 +1356,17 @@
       <option name="project" value="LOCAL" />
       <updated>1456455958124</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Mybatis+springMvc整套代码">
+      <created>1457439388342</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1457439388342</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48509000" />
+    <option name="totallyTimeSpent" value="49186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -2042,7 +1420,8 @@
     <MESSAGE value="加上myBastic配置文件的配置" />
     <MESSAGE value="web.xml配置" />
     <MESSAGE value="分支dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="分支dev" />
+    <MESSAGE value="Mybatis+springMvc整套代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mybatis+springMvc整套代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2165,6 +1544,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3327338">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2237,6 +1617,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2251,6 +1632,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2396,7 +1780,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
