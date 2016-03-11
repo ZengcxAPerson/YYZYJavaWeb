@@ -3,7 +3,7 @@ package com.yyzy.admin.controller.pictures;
 import com.yyzy.common.base.controller.BaseController;
 import com.yyzy.common.base.entity.Page;
 import com.yyzy.common.util.*;
-import com.yyzy.dao.entity.entity.system.Menu;
+import com.yyzy.dao.entity.system.Menu;
 import com.yyzy.service.pictures.PicturesService;
 import org.springframework.beans.propertyeditors.CustomDateEditor;
 import org.springframework.stereotype.Controller;

@@ -6,7 +6,7 @@ import javax.annotation.Resource;
 
 import com.yyzy.common.util.PageData;
 import com.yyzy.dao.base.DaoSupport;
-import com.yyzy.dao.entity.entity.system.Menu;
+import com.yyzy.dao.entity.system.Menu;
 import org.springframework.stereotype.Service;
 
 

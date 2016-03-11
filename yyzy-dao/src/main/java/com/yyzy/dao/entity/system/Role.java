@@ -1,4 +1,4 @@
-package com.yyzy.dao.entity.entity.system;
+package com.yyzy.dao.entity.system;
 
 /**
  * 类名称：Role.java 类描述：

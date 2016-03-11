@@ -10,9 +10,9 @@
     </settings>
 
 	<typeAliases>
-		<typeAlias type="com.yyzy.dao.entity.entity.system.User" alias="User"/>
-		<typeAlias type="com.yyzy.dao.entity.entity.system.Role" alias="Role"/>
-		<typeAlias type="com.yyzy.dao.entity.entity.system.Menu" alias="Menu"/>
+		<typeAlias type="com.yyzy.dao.entity.system.User" alias="User"/>
+		<typeAlias type="com.yyzy.dao.entity.system.Role" alias="Role"/>
+		<typeAlias type="com.yyzy.dao.entity.system.Menu" alias="Menu"/>
 		<typeAlias type="com.yyzy.common.util.PageData" alias="pd"/>
 		<!--&lt;!&ndash; 分页 &ndash;&gt;-->
 		<typeAlias type="com.yyzy.common.base.entity.Page" alias="Page"/>

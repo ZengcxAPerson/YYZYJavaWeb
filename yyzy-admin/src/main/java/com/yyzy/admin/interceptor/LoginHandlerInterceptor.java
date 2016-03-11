@@ -8,8 +8,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.yyzy.common.util.Const;
 import com.yyzy.common.util.RightsHelper;
-import com.yyzy.dao.entity.entity.system.Menu;
-import com.yyzy.dao.entity.entity.system.User;
+import com.yyzy.dao.entity.system.Menu;
+import com.yyzy.dao.entity.system.User;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.session.Session;
 import org.apache.shiro.subject.Subject;
