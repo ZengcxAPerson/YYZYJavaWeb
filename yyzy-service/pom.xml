@@ -18,7 +18,7 @@
 
     <!-- 依赖项定义 -->
     <dependencies>
-        <!-- bi-dao -->
+        <!-- test-dao -->
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>yyzy-dao</artifactId>
