@@ -2,7 +2,7 @@ package com.yyzy.admin.controller.system.menu;
 
 import com.yyzy.common.base.controller.BaseController;
 import com.yyzy.common.util.PageData;
-import com.yyzy.dao.entity.entity.system.Menu;
+import com.yyzy.dao.entity.system.Menu;
 import com.yyzy.service.system.menu.MenuService;
 import net.sf.json.JSONArray;
 import org.springframework.stereotype.Controller;

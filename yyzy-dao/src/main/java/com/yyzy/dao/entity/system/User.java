@@ -1,4 +1,4 @@
-package com.yyzy.dao.entity.entity.system;
+package com.yyzy.dao.entity.system;
 
 
 import com.yyzy.common.base.entity.Page;

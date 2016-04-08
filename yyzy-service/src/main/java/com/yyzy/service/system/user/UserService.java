@@ -3,7 +3,7 @@ package com.yyzy.service.system.user;
 import com.yyzy.common.base.entity.Page;
 import com.yyzy.common.util.PageData;
 import com.yyzy.dao.base.DaoSupport;
-import com.yyzy.dao.entity.entity.system.User;
+import com.yyzy.dao.entity.system.User;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
